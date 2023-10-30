@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Raquel</h1>
-<h3 align="center">I'm Full Stack Developer.</h3>
+<p align="center">I'm Full Stack Developer.</p>
 
 - 👨‍💻 All of my projects are available at [https://raquelbayas.netlify.app/](https://raquelbayas.netlify.app/)
 
