@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Raquel</h1>
-<p align="center">I'm Full Stack Developer.</p>
+<p align="center">I'm Full Stack Developer. Bachelor of Computer Science from UB and Master in Web App and Website Development. </p>
 
 - 👨‍💻 All of my projects are available at [https://raquelbayas.netlify.app/](https://raquelbayas.netlify.app/)
 
