@@ -12,15 +12,6 @@
   </a>
 </div>
 
-###
-
-<br clear="both">
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=raquelbayas.raquelbayas&"  />
-</div>
-
-###
 
 <h2 align="center">Hello world 👋🏼</h2>
 
