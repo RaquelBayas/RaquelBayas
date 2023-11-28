@@ -2,24 +2,17 @@
   <img height="250" src="https://media.giphy.com/media/paTz7UZbPfTZFRYnnB/giphy.gif"  />
 </div>
 
-###
-
-<br clear="both">
-
 <div align="center">
   <a href="https://www.linkedin.com/in/raquelbayas/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
 
-
 <h2 align="center">Hello world 👋🏼</h2>
 
 ###
 
 <h3 align="left">👩‍💻  About Me</h3>
-
-###
 
 <p align="left">💻 Full Stack Developer.<br>🎓 Bachelor of Computer Science from UB and Master in Web App and Website Development from UOC.<br><br>- 📍 26 y/o. Barcelona<br>- 👩🏼‍💻 I'm currently learning Google UX Design Certificate at Coursera<br>- ⚡ In my free time I learn Korean, watch k-dramas and painting</p>
 
