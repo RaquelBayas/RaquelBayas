@@ -14,7 +14,7 @@
 
 <h3 align="left">👩‍💻  About Me</h3>
 
-<p align="left">💻 Full Stack Developer.<br>🎓 Bachelor of Computer Science from UB and Master in Web App and Website Development from UOC.<br><br>- 📍 26 y/o. Barcelona<br>- 👩🏼‍💻 I'm currently learning Google UX Design Certificate at Coursera<br>- ⚡ In my free time I learn Korean, watch k-dramas and painting</p>
+<p align="left">💻 Full Stack Developer.<br>🎓 Bachelor of Computer Science from UB and Master in Web App and Website Development from UOC.<br><br>- 📍 26 y/o. Barcelona<br>- 👩🏼‍💻 I'm currently learning React and Google UX Design Certificate at Coursera<br>- ⚡ In my free time I learn Korean, watch k-dramas and painting</p>
 
 ###
 
